@@ -1,0 +1,5 @@
+yellow
+green
+pink
+blue
+white
